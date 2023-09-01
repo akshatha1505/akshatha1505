@@ -17,5 +17,3 @@ ___
 - ReactJS.
 
 
-<!-- GitHub Stats -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatha1505&show_icons=true)
