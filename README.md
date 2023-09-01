@@ -5,7 +5,7 @@
 🌟 Currently, I'm focused on web development and eager to explore opportunities where I can contribute my coding skills to innovative software projects. I'm always open to learning and collaborating with others.
 
 Let's connect and code together! 😊
-*** 
+___
 ## **Skills:**
 
 - C
@@ -15,4 +15,7 @@ Let's connect and code together! 😊
 - CSS
 - MySQL
 - ReactJS.
-  
+
+
+<!-- GitHub Stats -->
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatha1505&show_icons=true)
